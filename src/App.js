@@ -11,11 +11,12 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.cypress.com"
           target="_blank"
           rel="noopener noreferrer"
+          data-testid="leardid"
         >
-          Learn React
+          Learn Dev and testing
         </a>
       </header>
     </div>
